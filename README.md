@@ -1,0 +1,3 @@
+-	Developed an automated image analysis system to detect potential breast tumors using median filtering, thresholding, and morphological operations on mammogram images.
+-	Extracted features like area, perimeter, eccentricity, solidity, and centroid using regionprops to identify and classify abnormal regions.
+-	Implemented a threshold-based classification approach to highlight and count potential cancerous regions, with visual centroid marking for tumor localization.
